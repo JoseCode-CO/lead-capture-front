@@ -1,6 +1,10 @@
+import FormLanding from "./components/FormLanding/FormLanding"
+
 function App(){
   return(
-    <div>App</div>
+    <div>
+      <FormLanding/>
+    </div>
   )
 }
 
